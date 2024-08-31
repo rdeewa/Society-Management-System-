@@ -19,8 +19,8 @@ Technologies Used:-
 This project is built using a variety of technologies to ensure a seamless and efficient user experience:
 
 Frontend: HTML, CSS, JavaScript, AJAX
-Backend: PHP
-Database: MySQL
 
-![Screenshot 2024-08-30 114305](https://github.com/user-attachments/assets/a8ba39c3-bb01-472c-94ed-8981529c2534)
+Backend: PHP
+
+Database: MySQL
 
