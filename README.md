@@ -1,4 +1,4 @@
-Project Details:-
+filProject Details:-
 My Society is my college graduation final year project. It represents a culmination of my learning and skills in web development, aiming to address real-world problems in society management and community engagement.
 
 Abstract:-
@@ -21,3 +21,6 @@ This project is built using a variety of technologies to ensure a seamless and e
 Frontend: HTML, CSS, JavaScript, AJAX
 Backend: PHP
 Database: MySQL
+
+![Screenshot 2024-08-30 114305](https://github.com/user-attachments/assets/a8ba39c3-bb01-472c-94ed-8981529c2534)
+
