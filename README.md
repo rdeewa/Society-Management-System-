@@ -1,4 +1,4 @@
-filProject Details:-
+Project Details:-
 My Society is my college graduation final year project. It represents a culmination of my learning and skills in web development, aiming to address real-world problems in society management and community engagement.
 
 Abstract:-
